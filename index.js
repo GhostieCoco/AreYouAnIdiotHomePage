@@ -1,3 +1,3 @@
 function fullScreen() {
-window.requestFullscreen();
+element.requestFullscreen();
 }
